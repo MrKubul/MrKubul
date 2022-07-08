@@ -23,8 +23,6 @@
   
 </p>
 
-https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg
-
 📈 &nbsp;**Github stats**
 <p>
 
