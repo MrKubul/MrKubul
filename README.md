@@ -32,6 +32,6 @@ https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg
 |:---------------------:|:---------------------:|
 |![stats][stats]        |![languages][languages]|
 
-[stats]: https://github-readme-stats.vercel.app/api?username=mrkubul&show_icons=true&count_private=true&custom_title=Cicheck's%20Github%20Stats&theme=radical
+[stats]: https://github-readme-stats.vercel.app/api?username=mrkubul&show_icons=true&count_private=true&custom_title=MrKubul%20Github%20Stats&theme=radical
 
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=mrkubul&show_icons=true&exclude_repo=mnist-playground,find-the-nose&theme=radical
